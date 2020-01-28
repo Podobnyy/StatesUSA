@@ -1,0 +1,1106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>number</key>
+		<string>1</string>
+		<key>nameStates</key>
+		<string>Idaho</string>
+		<key>imageStates</key>
+		<string>IdahoImage</string>
+		<key>officialNameStates</key>
+		<string>State of Idaho</string>
+		<key>PostalСode</key>
+		<string>ID</string>
+		<key>CapitalName</key>
+		<string>Boise</string>
+		<key>FlagStates</key>
+		<string>Flag_Idaho</string>
+		<key>Foundation date</key>
+		<string>03.07.1890</string>
+		<key>nameStatesRU</key>
+		<string>Айдахо</string>
+		<key>CapitalNameRU</key>
+		<string>Бойсе</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>2</string>
+		<key>nameStates</key>
+		<string>Iowa</string>
+		<key>imageStates</key>
+		<string>IowaImage</string>
+		<key>officialNameStates</key>
+		<string>State of Iowa</string>
+		<key>PostalСode</key>
+		<string>IA</string>
+		<key>CapitalName</key>
+		<string>Des Moines</string>
+		<key>FlagStates</key>
+		<string>Flag_Iowa</string>
+		<key>Foundation date</key>
+		<string>28.12.1846</string>
+		<key>nameStatesRU</key>
+		<string>Айова</string>
+		<key>CapitalNameRU</key>
+		<string>Де-Мойн</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>3</string>
+		<key>nameStates</key>
+		<string>Alabama</string>
+		<key>imageStates</key>
+		<string>AlabamaImage</string>
+		<key>officialNameStates</key>
+		<string>State of Alabama</string>
+		<key>PostalСode</key>
+		<string>AL</string>
+		<key>CapitalName</key>
+		<string>Montgomery</string>
+		<key>FlagStates</key>
+		<string>Flag_Alabama</string>
+		<key>Foundation date</key>
+		<string>14.12.1819</string>
+		<key>nameStatesRU</key>
+		<string>Алабама</string>
+		<key>CapitalNameRU</key>
+		<string>Монтгомери</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>4</string>
+		<key>nameStates</key>
+		<string>Alaska</string>
+		<key>imageStates</key>
+		<string>AlaskaImage</string>
+		<key>officialNameStates</key>
+		<string>State of Alaska</string>
+		<key>PostalСode</key>
+		<string>AK</string>
+		<key>CapitalName</key>
+		<string>Juneau</string>
+		<key>FlagStates</key>
+		<string>Flag_Alaska</string>
+		<key>Foundation date</key>
+		<string>03.01.1959</string>
+		<key>nameStatesRU</key>
+		<string>Аляска</string>
+		<key>CapitalNameRU</key>
+		<string>Джуно</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>5</string>
+		<key>nameStates</key>
+		<string>Arizona</string>
+		<key>imageStates</key>
+		<string>ArizonaImage</string>
+		<key>officialNameStates</key>
+		<string>State of Arizona</string>
+		<key>PostalСode</key>
+		<string>AZ</string>
+		<key>CapitalName</key>
+		<string>Phoenix</string>
+		<key>FlagStates</key>
+		<string>Flag_Arizona</string>
+		<key>Foundation date</key>
+		<string>14.02.1912</string>
+		<key>nameStatesRU</key>
+		<string>Аризона</string>
+		<key>CapitalNameRU</key>
+		<string>Финикс</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>6</string>
+		<key>nameStates</key>
+		<string>Arkansas</string>
+		<key>imageStates</key>
+		<string>ArkansasImage</string>
+		<key>officialNameStates</key>
+		<string>State of Arkansas</string>
+		<key>PostalСode</key>
+		<string>AR</string>
+		<key>CapitalName</key>
+		<string>Little Rock</string>
+		<key>FlagStates</key>
+		<string>Flag_Arkansas</string>
+		<key>Foundation date</key>
+		<string>15.06.1836</string>
+		<key>nameStatesRU</key>
+		<string>Арканзас</string>
+		<key>CapitalNameRU</key>
+		<string>Литл-Рок</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>7</string>
+		<key>nameStates</key>
+		<string>Wyoming</string>
+		<key>imageStates</key>
+		<string>WyomingImage</string>
+		<key>officialNameStates</key>
+		<string>State of Wyoming</string>
+		<key>PostalСode</key>
+		<string>WY</string>
+		<key>CapitalName</key>
+		<string>Cheyenne</string>
+		<key>FlagStates</key>
+		<string>Flag_Wyoming</string>
+		<key>Foundation date</key>
+		<string>10.07.1890</string>
+		<key>nameStatesRU</key>
+		<string>Вайоминг</string>
+		<key>CapitalNameRU</key>
+		<string>Шайенн</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>8</string>
+		<key>nameStates</key>
+		<string>Washington</string>
+		<key>imageStates</key>
+		<string>WashingtonImage</string>
+		<key>officialNameStates</key>
+		<string>State of Washington</string>
+		<key>PostalСode</key>
+		<string>WA</string>
+		<key>CapitalName</key>
+		<string>Olympia</string>
+		<key>FlagStates</key>
+		<string>Flag_Washington</string>
+		<key>Foundation date</key>
+		<string>11.11.1889</string>
+		<key>nameStatesRU</key>
+		<string>Вашингтон</string>
+		<key>CapitalNameRU</key>
+		<string>Олимпия</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>9</string>
+		<key>nameStates</key>
+		<string>Vermont</string>
+		<key>imageStates</key>
+		<string>VermontImage</string>
+		<key>officialNameStates</key>
+		<string>State of Vermont</string>
+		<key>PostalСode</key>
+		<string>VT</string>
+		<key>CapitalName</key>
+		<string>Montpelier</string>
+		<key>FlagStates</key>
+		<string>Flag_Vermont</string>
+		<key>Foundation date</key>
+		<string>04.03.1791</string>
+		<key>nameStatesRU</key>
+		<string>Вермонт</string>
+		<key>CapitalNameRU</key>
+		<string>Монтпилиер</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>10</string>
+		<key>nameStates</key>
+		<string>Virginia</string>
+		<key>imageStates</key>
+		<string>VirginiaImage</string>
+		<key>officialNameStates</key>
+		<string>Commonwealth of Virginia</string>
+		<key>PostalСode</key>
+		<string>VA</string>
+		<key>CapitalName</key>
+		<string>Richmond</string>
+		<key>FlagStates</key>
+		<string>Flag_Virginia</string>
+		<key>Foundation date</key>
+		<string>25.06.1788</string>
+		<key>nameStatesRU</key>
+		<string>Виргиния</string>
+		<key>CapitalNameRU</key>
+		<string>Ричмонд</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>11</string>
+		<key>nameStates</key>
+		<string>Wisconsin</string>
+		<key>imageStates</key>
+		<string>WisconsinImage</string>
+		<key>officialNameStates</key>
+		<string>State of Wisconsin</string>
+		<key>PostalСode</key>
+		<string>WI</string>
+		<key>CapitalName</key>
+		<string>Madison</string>
+		<key>FlagStates</key>
+		<string>Flag_Wisconsin</string>
+		<key>Foundation date</key>
+		<string>29.05.1848</string>
+		<key>nameStatesRU</key>
+		<string>Висконсин</string>
+		<key>CapitalNameRU</key>
+		<string>Мэдисон</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>12</string>
+		<key>nameStates</key>
+		<string>Hawaii</string>
+		<key>imageStates</key>
+		<string>HawaiiImage</string>
+		<key>officialNameStates</key>
+		<string>State of Hawai`i Moku`a-ina o Hawai`i</string>
+		<key>PostalСode</key>
+		<string>HI</string>
+		<key>CapitalName</key>
+		<string>Honolulu</string>
+		<key>FlagStates</key>
+		<string>Flag_Hawaii</string>
+		<key>Foundation date</key>
+		<string>21.08.1959</string>
+		<key>nameStatesRU</key>
+		<string>Гавайи</string>
+		<key>CapitalNameRU</key>
+		<string>Гонолулу</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>13</string>
+		<key>nameStates</key>
+		<string>Delaware</string>
+		<key>imageStates</key>
+		<string>DelawareImage</string>
+		<key>officialNameStates</key>
+		<string>State of Delaware</string>
+		<key>PostalСode</key>
+		<string>DE</string>
+		<key>CapitalName</key>
+		<string>Dover</string>
+		<key>FlagStates</key>
+		<string>Flag_Delaware</string>
+		<key>Foundation date</key>
+		<string>07.12.1787</string>
+		<key>nameStatesRU</key>
+		<string>Делавэр</string>
+		<key>CapitalNameRU</key>
+		<string>Довер</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>14</string>
+		<key>nameStates</key>
+		<string>Georgia</string>
+		<key>imageStates</key>
+		<string>GeorgiaImage</string>
+		<key>officialNameStates</key>
+		<string>State of Georgia</string>
+		<key>PostalСode</key>
+		<string>GA</string>
+		<key>CapitalName</key>
+		<string>Atlanta</string>
+		<key>FlagStates</key>
+		<string>Flag_Georgia</string>
+		<key>Foundation date</key>
+		<string>02.01.1788</string>
+		<key>nameStatesRU</key>
+		<string>Джорджия</string>
+		<key>CapitalNameRU</key>
+		<string>Атланта</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>15</string>
+		<key>nameStates</key>
+		<string>West Virginia</string>
+		<key>imageStates</key>
+		<string>WestVirginiaImage</string>
+		<key>officialNameStates</key>
+		<string>State of West Virginia</string>
+		<key>PostalСode</key>
+		<string>WV</string>
+		<key>CapitalName</key>
+		<string>Charleston</string>
+		<key>FlagStates</key>
+		<string>Flag_WestVirginia</string>
+		<key>Foundation date</key>
+		<string>20.06.1863</string>
+		<key>nameStatesRU</key>
+		<string>Западная Виргиния</string>
+		<key>CapitalNameRU</key>
+		<string>Чарлстон</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>16</string>
+		<key>nameStates</key>
+		<string>Illinois</string>
+		<key>imageStates</key>
+		<string>IllinoisImage</string>
+		<key>officialNameStates</key>
+		<string>State of Illinois</string>
+		<key>PostalСode</key>
+		<string>IL</string>
+		<key>CapitalName</key>
+		<string>Springfield</string>
+		<key>FlagStates</key>
+		<string>Flag_Illinois</string>
+		<key>Foundation date</key>
+		<string>03.12.1818</string>
+		<key>nameStatesRU</key>
+		<string>Иллинойс</string>
+		<key>CapitalNameRU</key>
+		<string>Спрингфилд</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>17</string>
+		<key>nameStates</key>
+		<string>Indiana</string>
+		<key>imageStates</key>
+		<string>IndianaImage</string>
+		<key>officialNameStates</key>
+		<string>State of Indiana</string>
+		<key>PostalСode</key>
+		<string>IN</string>
+		<key>CapitalName</key>
+		<string>Indianapolis</string>
+		<key>FlagStates</key>
+		<string>Flag_Indiana</string>
+		<key>Foundation date</key>
+		<string>12.11.1816</string>
+		<key>nameStatesRU</key>
+		<string>Индиана</string>
+		<key>CapitalNameRU</key>
+		<string>Индианаполис</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>18</string>
+		<key>nameStates</key>
+		<string>California</string>
+		<key>imageStates</key>
+		<string>CaliforniaImage</string>
+		<key>officialNameStates</key>
+		<string>State of California</string>
+		<key>PostalСode</key>
+		<string>CA</string>
+		<key>CapitalName</key>
+		<string>Sacramento</string>
+		<key>FlagStates</key>
+		<string>Flag_California</string>
+		<key>Foundation date</key>
+		<string>09.09.1850</string>
+		<key>nameStatesRU</key>
+		<string>Калифорния</string>
+		<key>CapitalNameRU</key>
+		<string>Сакраменто</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>19</string>
+		<key>nameStates</key>
+		<string>Kansas</string>
+		<key>imageStates</key>
+		<string>KansasImage</string>
+		<key>officialNameStates</key>
+		<string>State of Kansas</string>
+		<key>PostalСode</key>
+		<string>KS</string>
+		<key>CapitalName</key>
+		<string>Topeka</string>
+		<key>FlagStates</key>
+		<string>Flag_Kansas</string>
+		<key>Foundation date</key>
+		<string>29.01.1861</string>
+		<key>nameStatesRU</key>
+		<string>Канзас</string>
+		<key>CapitalNameRU</key>
+		<string>Топика</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>20</string>
+		<key>nameStates</key>
+		<string>Kentucky</string>
+		<key>imageStates</key>
+		<string>KentuckyImage</string>
+		<key>officialNameStates</key>
+		<string>Commonwealth of Kentucky</string>
+		<key>PostalСode</key>
+		<string>KY</string>
+		<key>CapitalName</key>
+		<string>Frankfort</string>
+		<key>FlagStates</key>
+		<string>Flag_Kentucky</string>
+		<key>Foundation date</key>
+		<string>01.06.1792</string>
+		<key>nameStatesRU</key>
+		<string>Кентукки</string>
+		<key>CapitalNameRU</key>
+		<string>Франкфорт</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>21</string>
+		<key>nameStates</key>
+		<string>Colorado</string>
+		<key>imageStates</key>
+		<string>ColoradoImage</string>
+		<key>officialNameStates</key>
+		<string>State of Colorado</string>
+		<key>PostalСode</key>
+		<string>CO</string>
+		<key>CapitalName</key>
+		<string>Denver</string>
+		<key>FlagStates</key>
+		<string>Flag_Colorado</string>
+		<key>Foundation date</key>
+		<string>01.08.1876</string>
+		<key>nameStatesRU</key>
+		<string>Колорадо</string>
+		<key>CapitalNameRU</key>
+		<string>Денвер</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>22</string>
+		<key>nameStates</key>
+		<string>Connecticut</string>
+		<key>imageStates</key>
+		<string>ConnecticutImage</string>
+		<key>officialNameStates</key>
+		<string>State of Connecticut</string>
+		<key>PostalСode</key>
+		<string>CT</string>
+		<key>CapitalName</key>
+		<string>Hartford</string>
+		<key>FlagStates</key>
+		<string>Flag_Connecticut</string>
+		<key>Foundation date</key>
+		<string>09.01.1788</string>
+		<key>nameStatesRU</key>
+		<string>Коннектикут</string>
+		<key>CapitalNameRU</key>
+		<string>Хартфорд</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>23</string>
+		<key>nameStates</key>
+		<string>Louisiana</string>
+		<key>imageStates</key>
+		<string>LouisianaImage</string>
+		<key>officialNameStates</key>
+		<string>State of Louisiana État de Louisiane</string>
+		<key>PostalСode</key>
+		<string>LA</string>
+		<key>CapitalName</key>
+		<string>Baton Rouge</string>
+		<key>FlagStates</key>
+		<string>Flag_Louisiana</string>
+		<key>Foundation date</key>
+		<string>30.04.1812</string>
+		<key>nameStatesRU</key>
+		<string>Луизиана</string>
+		<key>CapitalNameRU</key>
+		<string>Батон Руж</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>24</string>
+		<key>nameStates</key>
+		<string>Massachusetts</string>
+		<key>imageStates</key>
+		<string>MassachusettsImage</string>
+		<key>officialNameStates</key>
+		<string>Commonwealth of Massachusetts</string>
+		<key>PostalСode</key>
+		<string>MA</string>
+		<key>CapitalName</key>
+		<string>Boston</string>
+		<key>FlagStates</key>
+		<string>Flag_Massachusetts</string>
+		<key>Foundation date</key>
+		<string>06.02.1788</string>
+		<key>nameStatesRU</key>
+		<string>Массачусетс</string>
+		<key>CapitalNameRU</key>
+		<string>Бостон</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>25</string>
+		<key>nameStates</key>
+		<string>Minnesota</string>
+		<key>imageStates</key>
+		<string>MinnesotaImage</string>
+		<key>officialNameStates</key>
+		<string>State of Minnesota</string>
+		<key>PostalСode</key>
+		<string>MN</string>
+		<key>CapitalName</key>
+		<string>Saint Paul</string>
+		<key>FlagStates</key>
+		<string>Flag_Minnesota</string>
+		<key>Foundation date</key>
+		<string>11.05.1858</string>
+		<key>nameStatesRU</key>
+		<string>Миннесота</string>
+		<key>CapitalNameRU</key>
+		<string>Сент Пол</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>26</string>
+		<key>nameStates</key>
+		<string>Mississippi</string>
+		<key>imageStates</key>
+		<string>MississippiImage</string>
+		<key>officialNameStates</key>
+		<string>State of Mississippi</string>
+		<key>PostalСode</key>
+		<string>MS</string>
+		<key>CapitalName</key>
+		<string>Jackson</string>
+		<key>FlagStates</key>
+		<string>Flag_Mississippi</string>
+		<key>Foundation date</key>
+		<string>10.12.1817</string>
+		<key>nameStatesRU</key>
+		<string>Миссисипи</string>
+		<key>CapitalNameRU</key>
+		<string>Джэксон</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>27</string>
+		<key>nameStates</key>
+		<string>Missouri</string>
+		<key>imageStates</key>
+		<string>MissouriImage</string>
+		<key>officialNameStates</key>
+		<string>State of Missouri</string>
+		<key>PostalСode</key>
+		<string>MO</string>
+		<key>CapitalName</key>
+		<string>Jefferson City</string>
+		<key>FlagStates</key>
+		<string>Flag_Missouri</string>
+		<key>Foundation date</key>
+		<string>10.08.1821</string>
+		<key>nameStatesRU</key>
+		<string>Миссури</string>
+		<key>CapitalNameRU</key>
+		<string>Джефферсон Сити</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>28</string>
+		<key>nameStates</key>
+		<string>Michigan</string>
+		<key>imageStates</key>
+		<string>MichiganImage</string>
+		<key>officialNameStates</key>
+		<string>State of Michigan</string>
+		<key>PostalСode</key>
+		<string>MI</string>
+		<key>CapitalName</key>
+		<string>Lansing</string>
+		<key>FlagStates</key>
+		<string>Flag_Michigan</string>
+		<key>Foundation date</key>
+		<string>26.01.1837</string>
+		<key>nameStatesRU</key>
+		<string>Мичиган</string>
+		<key>CapitalNameRU</key>
+		<string>Лансинг</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>29</string>
+		<key>nameStates</key>
+		<string>Montana</string>
+		<key>imageStates</key>
+		<string>MontanaImage</string>
+		<key>officialNameStates</key>
+		<string>State of Montana</string>
+		<key>PostalСode</key>
+		<string>MT</string>
+		<key>CapitalName</key>
+		<string>Helena</string>
+		<key>FlagStates</key>
+		<string>Flag_Montana</string>
+		<key>Foundation date</key>
+		<string>08.11.1889</string>
+		<key>nameStatesRU</key>
+		<string>Монтана</string>
+		<key>CapitalNameRU</key>
+		<string>Хелена</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>30</string>
+		<key>nameStates</key>
+		<string>Maine</string>
+		<key>imageStates</key>
+		<string>MaineImage</string>
+		<key>officialNameStates</key>
+		<string>State of Maine</string>
+		<key>PostalСode</key>
+		<string>ME</string>
+		<key>CapitalName</key>
+		<string>Augusta</string>
+		<key>FlagStates</key>
+		<string>Flag_Maine</string>
+		<key>Foundation date</key>
+		<string>15.03.1820</string>
+		<key>nameStatesRU</key>
+		<string>Мэн</string>
+		<key>CapitalNameRU</key>
+		<string>Огаста</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>31</string>
+		<key>nameStates</key>
+		<string>Maryland</string>
+		<key>imageStates</key>
+		<string>MarylandImage</string>
+		<key>officialNameStates</key>
+		<string>State of Maryland</string>
+		<key>PostalСode</key>
+		<string>MD</string>
+		<key>CapitalName</key>
+		<string>Annapolis</string>
+		<key>FlagStates</key>
+		<string>Flag_Maryland</string>
+		<key>Foundation date</key>
+		<string>28.04.1788</string>
+		<key>nameStatesRU</key>
+		<string>Мэриленд</string>
+		<key>CapitalNameRU</key>
+		<string>Аннаполис</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>32</string>
+		<key>nameStates</key>
+		<string>Nebraska</string>
+		<key>imageStates</key>
+		<string>NebraskaImage</string>
+		<key>officialNameStates</key>
+		<string>State of Nebraska</string>
+		<key>PostalСode</key>
+		<string>NE</string>
+		<key>CapitalName</key>
+		<string>Lincoln</string>
+		<key>FlagStates</key>
+		<string>Flag_Nebraska</string>
+		<key>Foundation date</key>
+		<string>01.03.1867</string>
+		<key>nameStatesRU</key>
+		<string>Небраска</string>
+		<key>CapitalNameRU</key>
+		<string>Линкольн</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>33</string>
+		<key>nameStates</key>
+		<string>Nevada</string>
+		<key>imageStates</key>
+		<string>NevadaImage</string>
+		<key>officialNameStates</key>
+		<string>State of Nevada</string>
+		<key>PostalСode</key>
+		<string>NV</string>
+		<key>CapitalName</key>
+		<string>Carson City</string>
+		<key>FlagStates</key>
+		<string>Flag_Nevada</string>
+		<key>Foundation date</key>
+		<string>31.10.1864</string>
+		<key>nameStatesRU</key>
+		<string>Невада</string>
+		<key>CapitalNameRU</key>
+		<string>Карсон Сити</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>34</string>
+		<key>nameStates</key>
+		<string>New Hampshire</string>
+		<key>imageStates</key>
+		<string>NewHampshireImage</string>
+		<key>officialNameStates</key>
+		<string>State of New Hampshire</string>
+		<key>PostalСode</key>
+		<string>NH</string>
+		<key>CapitalName</key>
+		<string>Concord</string>
+		<key>FlagStates</key>
+		<string>Flag_NewHampshire</string>
+		<key>Foundation date</key>
+		<string>21.06.1788</string>
+		<key>nameStatesRU</key>
+		<string>Нью Гэмпшир</string>
+		<key>CapitalNameRU</key>
+		<string>Конкорд</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>35</string>
+		<key>nameStates</key>
+		<string>New Jersey</string>
+		<key>imageStates</key>
+		<string>NewJerseyImage</string>
+		<key>officialNameStates</key>
+		<string>State of New Jersey</string>
+		<key>PostalСode</key>
+		<string>HJ</string>
+		<key>CapitalName</key>
+		<string>Trenton</string>
+		<key>FlagStates</key>
+		<string>Flag_NewJersey</string>
+		<key>Foundation date</key>
+		<string>18.12.1787</string>
+		<key>nameStatesRU</key>
+		<string>Нью Джерси</string>
+		<key>CapitalNameRU</key>
+		<string>Трентон</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>36</string>
+		<key>nameStates</key>
+		<string>New York</string>
+		<key>imageStates</key>
+		<string>NewYorkImage</string>
+		<key>officialNameStates</key>
+		<string>State of New York</string>
+		<key>PostalСode</key>
+		<string>HY</string>
+		<key>CapitalName</key>
+		<string>Albany</string>
+		<key>FlagStates</key>
+		<string>Flag_NewYork</string>
+		<key>Foundation date</key>
+		<string>26.07.1788</string>
+		<key>nameStatesRU</key>
+		<string>Нью Йорк</string>
+		<key>CapitalNameRU</key>
+		<string>Олбани</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>37</string>
+		<key>nameStates</key>
+		<string>New Mexico</string>
+		<key>imageStates</key>
+		<string>NewMexicoImage</string>
+		<key>officialNameStates</key>
+		<string>State of New Mexico Estado de Nuevo México</string>
+		<key>PostalСode</key>
+		<string>NM</string>
+		<key>CapitalName</key>
+		<string>Santa Fe</string>
+		<key>FlagStates</key>
+		<string>Flag_NewMexico</string>
+		<key>Foundation date</key>
+		<string>06.01.1788</string>
+		<key>nameStatesRU</key>
+		<string>Нью Мексико</string>
+		<key>CapitalNameRU</key>
+		<string>Санта Фе</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>38</string>
+		<key>nameStates</key>
+		<string>Ohio</string>
+		<key>imageStates</key>
+		<string>OhioImage</string>
+		<key>officialNameStates</key>
+		<string>State of Ohio</string>
+		<key>PostalСode</key>
+		<string>OH</string>
+		<key>CapitalName</key>
+		<string>Columbus</string>
+		<key>FlagStates</key>
+		<string>Flag_Ohio</string>
+		<key>Foundation date</key>
+		<string>01.03.1803</string>
+		<key>nameStatesRU</key>
+		<string>Огайо</string>
+		<key>CapitalNameRU</key>
+		<string>Колумбус</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>39</string>
+		<key>nameStates</key>
+		<string>Oklahoma</string>
+		<key>imageStates</key>
+		<string>OklahomaImage</string>
+		<key>officialNameStates</key>
+		<string>State of Oklahoma</string>
+		<key>PostalСode</key>
+		<string>OK</string>
+		<key>CapitalName</key>
+		<string>Oklahoma City</string>
+		<key>FlagStates</key>
+		<string>Flag_Oklahoma</string>
+		<key>Foundation date</key>
+		<string>16.11.1907</string>
+		<key>nameStatesRU</key>
+		<string>Оклахома</string>
+		<key>CapitalNameRU</key>
+		<string>Оклахома Сити</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>40</string>
+		<key>nameStates</key>
+		<string>Oregon</string>
+		<key>imageStates</key>
+		<string>OregonImage</string>
+		<key>officialNameStates</key>
+		<string>State of Oregon</string>
+		<key>PostalСode</key>
+		<string>OR</string>
+		<key>CapitalName</key>
+		<string>Salem</string>
+		<key>FlagStates</key>
+		<string>Flag_Oregon</string>
+		<key>Foundation date</key>
+		<string>14.02.1859</string>
+		<key>nameStatesRU</key>
+		<string>Орегон</string>
+		<key>CapitalNameRU</key>
+		<string>Сейлем</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>41</string>
+		<key>nameStates</key>
+		<string>Pennsylvania</string>
+		<key>imageStates</key>
+		<string>PennsylvaniaImage</string>
+		<key>officialNameStates</key>
+		<string>Commonwealth of Pennsylvania</string>
+		<key>PostalСode</key>
+		<string>PA</string>
+		<key>CapitalName</key>
+		<string>Harrisburg</string>
+		<key>FlagStates</key>
+		<string>Flag_Pennsylvania</string>
+		<key>Foundation date</key>
+		<string>12.12.1787</string>
+		<key>nameStatesRU</key>
+		<string>Пенсильвания</string>
+		<key>CapitalNameRU</key>
+		<string>Гаррисберг</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>42</string>
+		<key>nameStates</key>
+		<string>Rhode Island</string>
+		<key>imageStates</key>
+		<string>RhodeIslandImage</string>
+		<key>officialNameStates</key>
+		<string>State of Rhode Island and Providence Plantations</string>
+		<key>PostalСode</key>
+		<string>RI</string>
+		<key>CapitalName</key>
+		<string>Providence</string>
+		<key>FlagStates</key>
+		<string>Flag_RhodeIsland</string>
+		<key>Foundation date</key>
+		<string>29.05.1790</string>
+		<key>nameStatesRU</key>
+		<string>Род Айленд</string>
+		<key>CapitalNameRU</key>
+		<string>Провиденс</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>43</string>
+		<key>nameStates</key>
+		<string>North Dakota</string>
+		<key>imageStates</key>
+		<string>NorthDakotaImage</string>
+		<key>officialNameStates</key>
+		<string>State of North Dakota</string>
+		<key>PostalСode</key>
+		<string>ND</string>
+		<key>CapitalName</key>
+		<string>Bismarck</string>
+		<key>FlagStates</key>
+		<string>Flag_NorthDakota</string>
+		<key>Foundation date</key>
+		<string>02.11.1889</string>
+		<key>nameStatesRU</key>
+		<string>Северная Дакота</string>
+		<key>CapitalNameRU</key>
+		<string>Бисмарк</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>44</string>
+		<key>nameStates</key>
+		<string>North Carolina</string>
+		<key>imageStates</key>
+		<string>NorthCarolinaImage</string>
+		<key>officialNameStates</key>
+		<string>State of North Carolina</string>
+		<key>PostalСode</key>
+		<string>NC</string>
+		<key>CapitalName</key>
+		<string>Raleigh</string>
+		<key>FlagStates</key>
+		<string>Flag_NorthCarolina</string>
+		<key>Foundation date</key>
+		<string>21.11.1789</string>
+		<key>nameStatesRU</key>
+		<string>Северная Каролина</string>
+		<key>CapitalNameRU</key>
+		<string>Роли</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>45</string>
+		<key>nameStates</key>
+		<string>Tennessee</string>
+		<key>imageStates</key>
+		<string>TennesseeImage</string>
+		<key>officialNameStates</key>
+		<string>State of Tennessee</string>
+		<key>PostalСode</key>
+		<string>TN</string>
+		<key>CapitalName</key>
+		<string>Nashville</string>
+		<key>FlagStates</key>
+		<string>Flag_Tennessee</string>
+		<key>Foundation date</key>
+		<string>01.06.1796</string>
+		<key>nameStatesRU</key>
+		<string>Теннесси</string>
+		<key>CapitalNameRU</key>
+		<string>Нашвилл</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>46</string>
+		<key>nameStates</key>
+		<string>Texas</string>
+		<key>imageStates</key>
+		<string>TexasImage</string>
+		<key>officialNameStates</key>
+		<string>State of Texas</string>
+		<key>PostalСode</key>
+		<string>TX</string>
+		<key>CapitalName</key>
+		<string>Austin</string>
+		<key>FlagStates</key>
+		<string>Flag_Texas</string>
+		<key>Foundation date</key>
+		<string>29.12.1845</string>
+		<key>nameStatesRU</key>
+		<string>Техас</string>
+		<key>CapitalNameRU</key>
+		<string>Остин</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>47</string>
+		<key>nameStates</key>
+		<string>Florida</string>
+		<key>imageStates</key>
+		<string>FloridaImage</string>
+		<key>officialNameStates</key>
+		<string>State of Florida</string>
+		<key>PostalСode</key>
+		<string>FL</string>
+		<key>CapitalName</key>
+		<string>Tallahassee</string>
+		<key>FlagStates</key>
+		<string>Flag_Florida</string>
+		<key>Foundation date</key>
+		<string>03.03.1845</string>
+		<key>nameStatesRU</key>
+		<string>Флорида</string>
+		<key>CapitalNameRU</key>
+		<string>Таллахасси</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>48</string>
+		<key>nameStates</key>
+		<string>South Dakota</string>
+		<key>imageStates</key>
+		<string>SouthDakotaImage</string>
+		<key>officialNameStates</key>
+		<string>State of South Dakota</string>
+		<key>PostalСode</key>
+		<string>SD</string>
+		<key>CapitalName</key>
+		<string>Pierre</string>
+		<key>FlagStates</key>
+		<string>Flag_SouthDakota</string>
+		<key>Foundation date</key>
+		<string>02.11.1889</string>
+		<key>nameStatesRU</key>
+		<string>Южная Дакота</string>
+		<key>CapitalNameRU</key>
+		<string>Пирр</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>49</string>
+		<key>nameStates</key>
+		<string>South Carolina</string>
+		<key>imageStates</key>
+		<string>SouthCarolinaImage</string>
+		<key>officialNameStates</key>
+		<string>South Carolina</string>
+		<key>PostalСode</key>
+		<string>SC</string>
+		<key>CapitalName</key>
+		<string>Columbia</string>
+		<key>FlagStates</key>
+		<string>Flag_SouthCarolina</string>
+		<key>Foundation date</key>
+		<string>23.05.1788</string>
+		<key>nameStatesRU</key>
+		<string>Южная Каролина</string>
+		<key>CapitalNameRU</key>
+		<string>Колумбия</string>
+	</dict>
+	<dict>
+		<key>number</key>
+		<string>50</string>
+		<key>nameStates</key>
+		<string>Utah</string>
+		<key>imageStates</key>
+		<string>UtahImage</string>
+		<key>officialNameStates</key>
+		<string>State of Utah</string>
+		<key>PostalСode</key>
+		<string>UT</string>
+		<key>CapitalName</key>
+		<string>Salt Lake City</string>
+		<key>FlagStates</key>
+		<string>Flag_Utah</string>
+		<key>Foundation date</key>
+		<string>04.01.1896</string>
+		<key>nameStatesRU</key>
+		<string>Юта</string>
+		<key>CapitalNameRU</key>
+		<string>Солт Лейк Сити</string>
+	</dict>
+</array>
+</plist>
